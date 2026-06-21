@@ -1,0 +1,1 @@
+This repository contains a case study on the integration of Internet of Things (IoT) and Artificial Intelligence (AI). The report discusses how AI enhances IoT systems through intelligent decision-making, automation, and predictive analytics.
